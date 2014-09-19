@@ -1,0 +1,16 @@
+<dataset>
+    <student>
+        <id>001</id>
+        <name>lilei</name>
+        <age>17</age>
+        <sex>boy</sex>
+        <mobile/>
+    </student>
+    <student>
+        <id>002</id>
+        <name>hanmeimei</name>
+        <age>16</age>
+        <sex>girl</sex>
+        <email/>
+    </student>
+</dataset>
